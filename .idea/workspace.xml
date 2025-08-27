@@ -166,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756232708591</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Длбавлено получения изображения по тегу, а также без тега">
+      <option name="closed" value="true" />
+      <created>1756280465732</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756280465732</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +196,7 @@
     <MESSAGE value="Добавление изменение размера изображения" />
     <MESSAGE value="Вместо кнопки добавлено меню" />
     <MESSAGE value="Теперь каждое изображение открывается в новом окне" />
-    <option name="LAST_COMMIT_MESSAGE" value="Теперь каждое изображение открывается в новом окне" />
+    <MESSAGE value="Длбавлено получения изображения по тегу, а также без тега" />
+    <option name="LAST_COMMIT_MESSAGE" value="Длбавлено получения изображения по тегу, а также без тега" />
   </component>
 </project>
